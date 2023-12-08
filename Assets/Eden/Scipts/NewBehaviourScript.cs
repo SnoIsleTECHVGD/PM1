@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class UIButtons : MonoBehaviour
+public class NewBehaviourScript : MonoBehaviour
 {
     public void Play()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("Scene1");
     }
 
     public void Quit()
