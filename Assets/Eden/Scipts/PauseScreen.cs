@@ -5,10 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class PauseScreen : MonoBehaviour
 {
-    public void Resume()
-    {
-        
-    }
 
     public void Quit()
     {
