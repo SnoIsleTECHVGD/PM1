@@ -1,4 +1,4 @@
- using UnityEngine;
+ u  sing UnityEngine;
 
 [RequireComponent(typeof(stats))]
 public class DamageOnHit : MonoBehaviour
