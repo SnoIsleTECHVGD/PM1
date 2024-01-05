@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 <<<<<<<< HEAD:Assets/Eden/Scipts/PauseGame.cs.meta
+<<<<<<< HEAD
 guid: 11db5147115615c46a6ef8520a4ef0d1
+=======
+guid: 5dda829485239f24cb984e39f63d6779
+>>>>>>> e37a786f35807052917b75cdc8e75046c7a417a2
 ========
 guid: 6c7fe52c4ef4532498645d7cfc37f2b5
 >>>>>>>> 7981fa57866eb812dfec172009d8f714e64e1b9e:Assets/StationaryEnemy.cs.meta
