@@ -10,4 +10,14 @@ public class PauseScreen : MonoBehaviour
     {
         Application.Quit();
     }
+
+    public void freeze(float scale)
+    {
+        Time.timeScale = scale;
+    }
+    public void ByeByeScreen()
+    {
+        SceneManager.UnloadSceneAsync("Pause");
+    }
+
 }
