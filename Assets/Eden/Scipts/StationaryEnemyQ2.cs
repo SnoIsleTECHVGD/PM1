@@ -4,14 +4,11 @@ using UnityEngine;
 
 
 public class StationaryEnemyQ2 : MonoBehaviour
-
-
 {
-    
+    public Transform Target;
 
-    // Update is called once per frame
     void Update()
     {
-        
+        transform.LookAt(Target, new Vector3(0, 1, 0));
     }
 }
