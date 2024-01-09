@@ -410,6 +410,38 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 3800347704514309382, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 200.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800347704514309382, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 52.472
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800347705658770256, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 413.7315
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800347705658770256, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -48.52597
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800347705658770256, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 123
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800347705658770271, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
+      propertyPath: m_fontSize
+      value: 85
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800347705658770271, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
+      propertyPath: m_margin.z
+      value: 1.2728271
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800347705658770271, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 85
+      objectReference: {fileID: 0}
     - target: {fileID: 3800347705875777623, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
       propertyPath: m_Color.a
       value: 0.07058824
@@ -425,6 +457,14 @@ PrefabInstance:
     - target: {fileID: 3800347705875777623, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
       propertyPath: m_Color.r
       value: 0.4811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800347705986262987, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 200.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800347705986262987, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 52.472
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}

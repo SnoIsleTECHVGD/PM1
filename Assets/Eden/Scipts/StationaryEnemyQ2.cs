@@ -1,14 +1,45 @@
+// Technology stack: Unity
+
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-
-public class StationaryEnemyQ2 : MonoBehaviour
+public class ShootingScript : MonoBehaviour
 {
-    public Transform Target;
+    public Rigidbody bulletPrefab;
+    public float bulletSpeed = 10;
+    private Transform target;
 
-    void Update()
+    void OnTriggerEnter(Collider otherCollider)
     {
-        transform.LookAt(Target, new Vector3(0, 1, 0));
+        if (otherCollider.CompareTag("Player"))
+        {
+            target = otherCollider.transform;
+            Fire();
+        }
+    }
+
+    void OnTriggerExit(Collider otherCollider)
+    {
+        if (otherCollider.CompareTag("Player"))
+        {
+            target = null;
+            StopCoroutine("Fire"); 
+        }
+    }
+
+    private IEnumerator Fire()
+    {
+        while (target != null)
+        {
+            float nextFire = Time.time + 1;
+            while (Time.time < nextFire)
+            {
+                transform.LookAt(target);
+                yield return new WaitForEndOfFrame();
+            }
+
+            Rigidbody bullet = Instantiate(bulletPrefab, transform.position, transform.rotation);
+            bullet.velocity = transform.forward * bulletSpeed;
+        }
     }
 }
