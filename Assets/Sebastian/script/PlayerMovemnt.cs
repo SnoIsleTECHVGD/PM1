@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerMovemnt : MonoBehaviour
 {
+    private int jumps=2;
+
     public KeyCode left, right;
     public float buildUp;
     public float maxSpeed;
@@ -32,13 +34,23 @@ public class PlayerMovemnt : MonoBehaviour
             rb2D.AddForce(Vector2.right * buildUp);
         }
 
-        if (Input.GetKeyDown(jump))
+        if (Input.GetKeyDown(jump) && jumps >0)
+
         {
             rb2D.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            jumps--;
+        }
+        if (Grounded())
+        {
+            // how evere many jumps dp - 1
+            jumps = 1;
         }
 
-
         rb2D.velocity = new Vector2(Mathf.Clamp(rb2D.velocity.x, -maxSpeed, maxSpeed), rb2D.velocity.y);
+    }
+    bool Grounded()
+    {
+       return Physics2D.BoxCast(Vector2.down /2, Vector2.one/2, 0, Vector2.zero);
     }
 }
   
