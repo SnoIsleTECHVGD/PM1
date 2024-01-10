@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerMovemnt : MonoBehaviour
 {
-    private int jumps=2;
+    [SerializeField] private int jumps=2;
 
     public KeyCode left, right;
     public float buildUp;
@@ -42,7 +42,7 @@ public class PlayerMovemnt : MonoBehaviour
         }
         if (Grounded())
         {
-            // how evere many jumps dp - 1
+            // how evere many jumps dp - 2
             jumps = 1;
         }
 
@@ -50,7 +50,7 @@ public class PlayerMovemnt : MonoBehaviour
     }
     bool Grounded()
     {
-       return Physics2D.BoxCast(Vector2.down /2, Vector2.one/2, 0, Vector2.zero);
+       return Physics2D.BoxCast(Vector2.down / 2, Vector2.one/0, 0, Vector2.zero);
     }
 }
   
