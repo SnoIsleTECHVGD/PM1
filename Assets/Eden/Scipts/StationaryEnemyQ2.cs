@@ -1,4 +1,3 @@
-// Technology stack: Unity
 
 using System.Collections;
 using UnityEngine;
