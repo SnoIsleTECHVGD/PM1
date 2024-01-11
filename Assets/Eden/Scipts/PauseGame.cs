@@ -13,7 +13,7 @@ public class PauseGame : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            SceneManager.LoadScene("Pause", LoadSceneMode.Additive);
+            SceneManager.LoadScene("Main Pause", LoadSceneMode.Additive);
             Time.timeScale = 0;
         }
     }

@@ -123,17 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!114 &45519238 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3800347704514309378, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-  m_PrefabInstance: {fileID: 3800347705833702199}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 631ece0d0522d2d4d89de19c14722434, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &387246967
 GameObject:
   m_ObjectHideFlags: 0
@@ -378,93 +367,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
-    - target: {fileID: 3800347704514309381, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347704514309381, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347704514309381, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 45519238}
-    - target: {fileID: 3800347704514309381, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347704514309381, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
-      value: ByeByeScreen
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347704514309381, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
-      value: PauseScreen, Assembly-CSharp
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347704514309381, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_FloatArgument
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347704514309381, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347704514309382, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 200.21
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347704514309382, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 52.472
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347705658770256, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 413.7315
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347705658770256, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
+    - target: {fileID: 3800347705986262987, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -48.52597
+      value: 163
       objectReference: {fileID: 0}
-    - target: {fileID: 3800347705658770256, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
+    - target: {fileID: 3800347705986262987, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 123
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347705658770271, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_fontSize
-      value: 85
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347705658770271, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_margin.z
-      value: 1.2728271
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347705658770271, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_fontSizeBase
-      value: 85
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347705875777623, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_Color.a
-      value: 0.07058824
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347705875777623, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_Color.b
-      value: 0.31092027
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347705875777623, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_Color.g
-      value: 0.31092027
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347705875777623, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_Color.r
-      value: 0.4811321
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347705986262987, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 200.21
-      objectReference: {fileID: 0}
-    - target: {fileID: 3800347705986262987, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 52.472
+      value: -208.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 15551180c80e3764bbc51fc55f2893fa, type: 3}
