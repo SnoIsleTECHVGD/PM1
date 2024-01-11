@@ -7,7 +7,7 @@ public class NewBehaviourScript : MonoBehaviour
 {
     public void Play()
     {
-        SceneManager.LoadScene("Scene1");
+        SceneManager.LoadScene("level");
     }
 
     public void Quit()

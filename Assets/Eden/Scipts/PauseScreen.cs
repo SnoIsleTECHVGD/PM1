@@ -17,7 +17,7 @@ public class PauseScreen : MonoBehaviour
     }
     public void ByeByeScreen()
     {
-        SceneManager.UnloadSceneAsync("Pause");
+        SceneManager.UnloadSceneAsync("Main Pause");
     }
 
 }
