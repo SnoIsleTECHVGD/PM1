@@ -46,7 +46,7 @@ public class PlayerMovemnt : MonoBehaviour
             jumps = 1;
         }
 
-        rb2D.velocity = new Vector2(Mathf.Clamp(rb2D.velocity.x, -maxSpeed, maxSpeed), rb2D.velocity.y);
+        rb2D.velocity = new Vector2(Mathf.Clamp(rb2D.velocity.x, -maxSpeed, maxSpeed), Mathf.Clamp(rb2D.velocity.y, -jumpForce, jumpForce));
     }
     bool Grounded()
     {

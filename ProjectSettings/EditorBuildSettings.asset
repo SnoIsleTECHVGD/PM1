@@ -6,15 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Eden/Scenes/Title.unity
-    guid: 9dae13abda13ebd449debac188ece01a
+    path: Assets/Main/Main Title.unity
+    guid: f845dac6f0852d5428a55e7a8640d8ce
   - enabled: 1
-    path: Assets/Eden/Scenes/Pause.unity
-    guid: 0254235184dc6334f86233f9f5776c1a
+    path: Assets/Main/Main Pause.unity
+    guid: cae512bfb55ac684589920f91181a116
   - enabled: 1
-    path: Assets/Eden/Scenes/Scene1.unity
-    guid: 1249475b7fb38ae4a8b984cb39194cd7
-  - enabled: 1
-    path: Assets/Eden/Scenes/Credits.unity
-    guid: 2e0317f26012b01429f4e5eca32bfce4
+    path: Assets/Main/level.unity
+    guid: b2d5462c940f5ed43bd92ad493d60b2d
   m_configObjects: {}
