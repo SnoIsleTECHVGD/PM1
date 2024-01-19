@@ -1,0 +1,6132 @@
+fileFormatVersion: 2
+guid: 1c541fab21b46aa4f98ac29f28f9abd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5830291718775921231
+    second: Every_Single_Tile_GG_0
+  - first:
+      213: -3673198862893030609
+    second: Every_Single_Tile_GG_1
+  - first:
+      213: 3577924314959931071
+    second: Every_Single_Tile_GG_2
+  - first:
+      213: -2498736941554944071
+    second: Every_Single_Tile_GG_3
+  - first:
+      213: 5776745261489966954
+    second: Every_Single_Tile_GG_4
+  - first:
+      213: -7445061236908302790
+    second: Every_Single_Tile_GG_5
+  - first:
+      213: 3954338125260216655
+    second: Every_Single_Tile_GG_6
+  - first:
+      213: -7617736500835727720
+    second: Every_Single_Tile_GG_7
+  - first:
+      213: 4162734511590373008
+    second: Every_Single_Tile_GG_8
+  - first:
+      213: 61917658540624255
+    second: Every_Single_Tile_GG_9
+  - first:
+      213: -3543475223580817591
+    second: Every_Single_Tile_GG_10
+  - first:
+      213: -2313766609644254053
+    second: Every_Single_Tile_GG_11
+  - first:
+      213: 4699519505416131936
+    second: Every_Single_Tile_GG_12
+  - first:
+      213: -1876520142995767673
+    second: Every_Single_Tile_GG_13
+  - first:
+      213: -2788575467800715330
+    second: Every_Single_Tile_GG_14
+  - first:
+      213: 2505643202299577242
+    second: Every_Single_Tile_GG_15
+  - first:
+      213: -8120934724649465021
+    second: Every_Single_Tile_GG_16
+  - first:
+      213: -3307995054323414511
+    second: Every_Single_Tile_GG_17
+  - first:
+      213: 2112612753116255257
+    second: Every_Single_Tile_GG_18
+  - first:
+      213: 3525452746679762086
+    second: Every_Single_Tile_GG_19
+  - first:
+      213: -6764844238112296136
+    second: Every_Single_Tile_GG_20
+  - first:
+      213: -7025246828947349873
+    second: Every_Single_Tile_GG_21
+  - first:
+      213: 6071699330165236066
+    second: Every_Single_Tile_GG_22
+  - first:
+      213: 5001357713407280834
+    second: Every_Single_Tile_GG_23
+  - first:
+      213: -7290373886914615311
+    second: Every_Single_Tile_GG_24
+  - first:
+      213: 7309524330961141302
+    second: Every_Single_Tile_GG_25
+  - first:
+      213: -6022349001646257567
+    second: Every_Single_Tile_GG_26
+  - first:
+      213: 6384074525981220507
+    second: Every_Single_Tile_GG_27
+  - first:
+      213: -5531014658657689377
+    second: Every_Single_Tile_GG_28
+  - first:
+      213: -3085324217430976319
+    second: Every_Single_Tile_GG_29
+  - first:
+      213: 717897342899802989
+    second: Every_Single_Tile_GG_30
+  - first:
+      213: 2538627842052090454
+    second: Every_Single_Tile_GG_31
+  - first:
+      213: -6475467886764603336
+    second: Every_Single_Tile_GG_32
+  - first:
+      213: -8956655579126338296
+    second: Every_Single_Tile_GG_33
+  - first:
+      213: 1836898495997773205
+    second: Every_Single_Tile_GG_34
+  - first:
+      213: 3420356440657843228
+    second: Every_Single_Tile_GG_35
+  - first:
+      213: -458490424617498063
+    second: Every_Single_Tile_GG_36
+  - first:
+      213: 1470331377479807799
+    second: Every_Single_Tile_GG_37
+  - first:
+      213: 1566056917539935293
+    second: Every_Single_Tile_GG_38
+  - first:
+      213: 1623904104740826615
+    second: Every_Single_Tile_GG_39
+  - first:
+      213: 7660626503741570094
+    second: Every_Single_Tile_GG_40
+  - first:
+      213: -9190246409838273708
+    second: Every_Single_Tile_GG_41
+  - first:
+      213: -3995192608071964978
+    second: Every_Single_Tile_GG_42
+  - first:
+      213: -6671736675632670964
+    second: Every_Single_Tile_GG_43
+  - first:
+      213: -8828211380231525237
+    second: Every_Single_Tile_GG_44
+  - first:
+      213: -5985574258750684131
+    second: Every_Single_Tile_GG_45
+  - first:
+      213: 1955206346999742979
+    second: Every_Single_Tile_GG_46
+  - first:
+      213: -123985109628639725
+    second: Every_Single_Tile_GG_47
+  - first:
+      213: -1863656625728643378
+    second: Every_Single_Tile_GG_48
+  - first:
+      213: 6451052200982600071
+    second: Every_Single_Tile_GG_49
+  - first:
+      213: 6458319136640612252
+    second: Every_Single_Tile_GG_50
+  - first:
+      213: -6212261088711647048
+    second: Every_Single_Tile_GG_51
+  - first:
+      213: 3948055886948256946
+    second: Every_Single_Tile_GG_52
+  - first:
+      213: 5701028420420721355
+    second: Every_Single_Tile_GG_53
+  - first:
+      213: -43647365960623903
+    second: Every_Single_Tile_GG_54
+  - first:
+      213: -4714592686184784496
+    second: Every_Single_Tile_GG_55
+  - first:
+      213: -5136053015236211311
+    second: Every_Single_Tile_GG_56
+  - first:
+      213: 3764127621047343466
+    second: Every_Single_Tile_GG_57
+  - first:
+      213: 5588582787982955867
+    second: Every_Single_Tile_GG_58
+  - first:
+      213: 2074434444704651375
+    second: Every_Single_Tile_GG_59
+  - first:
+      213: -5271562358286570953
+    second: Every_Single_Tile_GG_60
+  - first:
+      213: 3918646925872570372
+    second: Every_Single_Tile_GG_61
+  - first:
+      213: 7261039660006454761
+    second: Every_Single_Tile_GG_62
+  - first:
+      213: -8116560112321339532
+    second: Every_Single_Tile_GG_63
+  - first:
+      213: 1846816082931126939
+    second: Every_Single_Tile_GG_64
+  - first:
+      213: 1301933282787316932
+    second: Every_Single_Tile_GG_65
+  - first:
+      213: 7050741520847910941
+    second: Every_Single_Tile_GG_66
+  - first:
+      213: 2263712770898673019
+    second: Every_Single_Tile_GG_67
+  - first:
+      213: 5142484609086920457
+    second: Every_Single_Tile_GG_68
+  - first:
+      213: -163126104076188339
+    second: Every_Single_Tile_GG_69
+  - first:
+      213: -7749369015850969109
+    second: Every_Single_Tile_GG_70
+  - first:
+      213: -3112646840635381026
+    second: Every_Single_Tile_GG_71
+  - first:
+      213: 5914268626582267012
+    second: Every_Single_Tile_GG_72
+  - first:
+      213: -7032085268307055956
+    second: Every_Single_Tile_GG_73
+  - first:
+      213: -9010440273400797038
+    second: Every_Single_Tile_GG_74
+  - first:
+      213: -6413931801191724714
+    second: Every_Single_Tile_GG_75
+  - first:
+      213: -3935930010878504223
+    second: Every_Single_Tile_GG_76
+  - first:
+      213: -8753910951416444850
+    second: Every_Single_Tile_GG_77
+  - first:
+      213: 2557938350057356467
+    second: Every_Single_Tile_GG_78
+  - first:
+      213: -5738663972385250149
+    second: Every_Single_Tile_GG_79
+  - first:
+      213: -563596694943207692
+    second: Every_Single_Tile_GG_80
+  - first:
+      213: 2719672295978089170
+    second: Every_Single_Tile_GG_81
+  - first:
+      213: 1333042556278149075
+    second: Every_Single_Tile_GG_82
+  - first:
+      213: 7711944999744290928
+    second: Every_Single_Tile_GG_83
+  - first:
+      213: -6183231329001726530
+    second: Every_Single_Tile_GG_84
+  - first:
+      213: -2428195750273293982
+    second: Every_Single_Tile_GG_85
+  - first:
+      213: 4962787061158476459
+    second: Every_Single_Tile_GG_86
+  - first:
+      213: -1825919030122513631
+    second: Every_Single_Tile_GG_87
+  - first:
+      213: -8782315327936222915
+    second: Every_Single_Tile_GG_88
+  - first:
+      213: 5354828078478880230
+    second: Every_Single_Tile_GG_89
+  - first:
+      213: -1591898099816958794
+    second: Every_Single_Tile_GG_90
+  - first:
+      213: -3441125303461594012
+    second: Every_Single_Tile_GG_91
+  - first:
+      213: 3836590333049630467
+    second: Every_Single_Tile_GG_92
+  - first:
+      213: 792978274562147042
+    second: Every_Single_Tile_GG_93
+  - first:
+      213: 7138322464235061366
+    second: Every_Single_Tile_GG_94
+  - first:
+      213: -5508248519821466127
+    second: Every_Single_Tile_GG_95
+  - first:
+      213: 4279425495926751632
+    second: Every_Single_Tile_GG_96
+  - first:
+      213: 6999131144806112004
+    second: Every_Single_Tile_GG_97
+  - first:
+      213: -4315863548311954952
+    second: Every_Single_Tile_GG_98
+  - first:
+      213: 5841815695110201521
+    second: Every_Single_Tile_GG_99
+  - first:
+      213: -413652968919440838
+    second: Every_Single_Tile_GG_100
+  - first:
+      213: 2954879425838765244
+    second: Every_Single_Tile_GG_101
+  - first:
+      213: 4065841798979909691
+    second: Every_Single_Tile_GG_102
+  - first:
+      213: -4886323760437181794
+    second: Every_Single_Tile_GG_103
+  - first:
+      213: 1478567958561392548
+    second: Every_Single_Tile_GG_104
+  - first:
+      213: 3371565641332292774
+    second: Every_Single_Tile_GG_105
+  - first:
+      213: 469703610469313117
+    second: Every_Single_Tile_GG_106
+  - first:
+      213: -186299380350943721
+    second: Every_Single_Tile_GG_107
+  - first:
+      213: -2549529859168008496
+    second: Every_Single_Tile_GG_108
+  - first:
+      213: 260703025583944093
+    second: Every_Single_Tile_GG_109
+  - first:
+      213: 9182891297058153992
+    second: Every_Single_Tile_GG_110
+  - first:
+      213: -2285745844343301560
+    second: Every_Single_Tile_GG_111
+  - first:
+      213: 2379201649165739330
+    second: Every_Single_Tile_GG_112
+  - first:
+      213: 678536120238441108
+    second: Every_Single_Tile_GG_113
+  - first:
+      213: 5067475736754885473
+    second: Every_Single_Tile_GG_114
+  - first:
+      213: 7704178629620344640
+    second: Every_Single_Tile_GG_115
+  - first:
+      213: 8507433995501151145
+    second: Every_Single_Tile_GG_116
+  - first:
+      213: 5577591681573968113
+    second: Every_Single_Tile_GG_117
+  - first:
+      213: -1085785558453522116
+    second: Every_Single_Tile_GG_118
+  - first:
+      213: -6495558881957198145
+    second: Every_Single_Tile_GG_119
+  - first:
+      213: 6393746811716044101
+    second: Every_Single_Tile_GG_120
+  - first:
+      213: 26267973755875113
+    second: Every_Single_Tile_GG_121
+  - first:
+      213: 2272568586086233547
+    second: Every_Single_Tile_GG_122
+  - first:
+      213: 3336164263392453048
+    second: Every_Single_Tile_GG_123
+  - first:
+      213: -2754053880010749180
+    second: Every_Single_Tile_GG_124
+  - first:
+      213: 1509209545984130885
+    second: Every_Single_Tile_GG_125
+  - first:
+      213: 6274369675437222578
+    second: Every_Single_Tile_GG_126
+  - first:
+      213: -7833205444321588887
+    second: Every_Single_Tile_GG_127
+  - first:
+      213: -331877777022160930
+    second: Every_Single_Tile_GG_128
+  - first:
+      213: -5758016303471084408
+    second: Every_Single_Tile_GG_129
+  - first:
+      213: 894903030468454398
+    second: Every_Single_Tile_GG_130
+  - first:
+      213: -5065393786489604520
+    second: Every_Single_Tile_GG_131
+  - first:
+      213: 3310682168114120271
+    second: Every_Single_Tile_GG_132
+  - first:
+      213: -1250423721641573868
+    second: Every_Single_Tile_GG_133
+  - first:
+      213: 3094439060065731711
+    second: Every_Single_Tile_GG_134
+  - first:
+      213: 4953741547371548724
+    second: Every_Single_Tile_GG_135
+  - first:
+      213: 344107716354082300
+    second: Every_Single_Tile_GG_136
+  - first:
+      213: 2989442390382181234
+    second: Every_Single_Tile_GG_137
+  - first:
+      213: -709400821362543728
+    second: Every_Single_Tile_GG_138
+  - first:
+      213: -3460276615243944947
+    second: Every_Single_Tile_GG_139
+  - first:
+      213: 2057328224339941852
+    second: Every_Single_Tile_GG_140
+  - first:
+      213: -7678519273586793581
+    second: Every_Single_Tile_GG_141
+  - first:
+      213: 6711917536605154921
+    second: Every_Single_Tile_GG_142
+  - first:
+      213: 5716699597726864199
+    second: Every_Single_Tile_GG_143
+  - first:
+      213: -6831539570875727907
+    second: Every_Single_Tile_GG_144
+  - first:
+      213: 8579872620399916108
+    second: Every_Single_Tile_GG_145
+  - first:
+      213: -3055078578392150367
+    second: Every_Single_Tile_GG_146
+  - first:
+      213: 5059467979759745301
+    second: Every_Single_Tile_GG_147
+  - first:
+      213: 4903378296279594389
+    second: Every_Single_Tile_GG_148
+  - first:
+      213: -837837389380072360
+    second: Every_Single_Tile_GG_149
+  - first:
+      213: -3844355040713943470
+    second: Every_Single_Tile_GG_150
+  - first:
+      213: 7301159102374621917
+    second: Every_Single_Tile_GG_151
+  - first:
+      213: -2354843550415328498
+    second: Every_Single_Tile_GG_152
+  - first:
+      213: -2930484323404206518
+    second: Every_Single_Tile_GG_153
+  - first:
+      213: 8175327337836170348
+    second: Every_Single_Tile_GG_154
+  - first:
+      213: 6526402795391853541
+    second: Every_Single_Tile_GG_155
+  - first:
+      213: -6002761792665242216
+    second: Every_Single_Tile_GG_156
+  - first:
+      213: 4244257494303083211
+    second: Every_Single_Tile_GG_157
+  - first:
+      213: -4987806443964056026
+    second: Every_Single_Tile_GG_158
+  - first:
+      213: -4113743161618552910
+    second: Every_Single_Tile_GG_159
+  - first:
+      213: 3137661648342394786
+    second: Every_Single_Tile_GG_160
+  - first:
+      213: -9092575597548087466
+    second: Every_Single_Tile_GG_161
+  - first:
+      213: 5751421650983846281
+    second: Every_Single_Tile_GG_162
+  - first:
+      213: 875521125240048922
+    second: Every_Single_Tile_GG_163
+  - first:
+      213: 7381692835783051860
+    second: Every_Single_Tile_GG_164
+  - first:
+      213: -81776866585901269
+    second: Every_Single_Tile_GG_165
+  - first:
+      213: -3034686177958155459
+    second: Every_Single_Tile_GG_166
+  - first:
+      213: 99636545659862520
+    second: Every_Single_Tile_GG_167
+  - first:
+      213: 4455207797707780607
+    second: Every_Single_Tile_GG_168
+  - first:
+      213: 7402264475579633342
+    second: Every_Single_Tile_GG_169
+  - first:
+      213: -1054553584068723853
+    second: Every_Single_Tile_GG_170
+  - first:
+      213: -4533651405373411433
+    second: Every_Single_Tile_GG_171
+  - first:
+      213: 2048628897534776914
+    second: Every_Single_Tile_GG_172
+  - first:
+      213: -7831493980239727498
+    second: Every_Single_Tile_GG_173
+  - first:
+      213: -2098166773071551176
+    second: Every_Single_Tile_GG_174
+  - first:
+      213: -6068489722450938842
+    second: Every_Single_Tile_GG_175
+  - first:
+      213: -2648023464736713115
+    second: Every_Single_Tile_GG_176
+  - first:
+      213: 4866388005419381989
+    second: Every_Single_Tile_GG_177
+  - first:
+      213: -2298480601389455936
+    second: Every_Single_Tile_GG_178
+  - first:
+      213: -6010796170621716810
+    second: Every_Single_Tile_GG_179
+  - first:
+      213: -7180737540677555185
+    second: Every_Single_Tile_GG_180
+  - first:
+      213: 1080167100532131664
+    second: Every_Single_Tile_GG_181
+  - first:
+      213: -9161023370038003778
+    second: Every_Single_Tile_GG_182
+  - first:
+      213: -4030148460009708545
+    second: Every_Single_Tile_GG_183
+  - first:
+      213: -5711893187957961662
+    second: Every_Single_Tile_GG_184
+  - first:
+      213: -6111730395927083164
+    second: Every_Single_Tile_GG_185
+  - first:
+      213: 3568052158451806326
+    second: Every_Single_Tile_GG_186
+  - first:
+      213: -7043122558895463259
+    second: Every_Single_Tile_GG_187
+  - first:
+      213: -6427589416858095836
+    second: Every_Single_Tile_GG_188
+  - first:
+      213: 996702966190792857
+    second: Every_Single_Tile_GG_189
+  - first:
+      213: 3515551807023620373
+    second: Every_Single_Tile_GG_190
+  - first:
+      213: -7091539462159193911
+    second: Every_Single_Tile_GG_191
+  - first:
+      213: 5805002616775843751
+    second: Every_Single_Tile_GG_192
+  - first:
+      213: 8568499707335697741
+    second: Every_Single_Tile_GG_193
+  - first:
+      213: -2988224287205835660
+    second: Every_Single_Tile_GG_194
+  - first:
+      213: 1224104567019694994
+    second: Every_Single_Tile_GG_195
+  - first:
+      213: 4731829219861589076
+    second: Every_Single_Tile_GG_196
+  - first:
+      213: -6375107863337970353
+    second: Every_Single_Tile_GG_197
+  - first:
+      213: 5966170803523859363
+    second: Every_Single_Tile_GG_198
+  - first:
+      213: -8065851730184310666
+    second: Every_Single_Tile_GG_199
+  - first:
+      213: -6249171119824020336
+    second: Every_Single_Tile_GG_200
+  - first:
+      213: -3969547032740196227
+    second: Every_Single_Tile_GG_201
+  - first:
+      213: -3512546856315748238
+    second: Every_Single_Tile_GG_202
+  - first:
+      213: 1820438995514129599
+    second: Every_Single_Tile_GG_203
+  - first:
+      213: -5619164040069534002
+    second: Every_Single_Tile_GG_204
+  - first:
+      213: -1226951488432378206
+    second: Every_Single_Tile_GG_205
+  - first:
+      213: -958630352115233100
+    second: Every_Single_Tile_GG_206
+  - first:
+      213: -7937109167745316604
+    second: Every_Single_Tile_GG_207
+  - first:
+      213: -4339134783991960871
+    second: Every_Single_Tile_GG_208
+  - first:
+      213: 2503285322961394360
+    second: Every_Single_Tile_GG_209
+  - first:
+      213: 7522091239597387210
+    second: Every_Single_Tile_GG_210
+  - first:
+      213: -7263047873514173353
+    second: Every_Single_Tile_GG_211
+  - first:
+      213: 6804231361353846835
+    second: Every_Single_Tile_GG_212
+  - first:
+      213: -8445803294872743681
+    second: Every_Single_Tile_GG_213
+  - first:
+      213: -7780810804961306359
+    second: Every_Single_Tile_GG_214
+  - first:
+      213: 4987348799056196955
+    second: Every_Single_Tile_GG_215
+  - first:
+      213: 88880679521141746
+    second: Every_Single_Tile_GG_216
+  - first:
+      213: -5111746153652031070
+    second: Every_Single_Tile_GG_217
+  - first:
+      213: -751561705998901585
+    second: Every_Single_Tile_GG_218
+  - first:
+      213: -5331091156551735288
+    second: Every_Single_Tile_GG_219
+  - first:
+      213: -8004468736248816077
+    second: Every_Single_Tile_GG_220
+  - first:
+      213: -3893391148435484048
+    second: Every_Single_Tile_GG_221
+  - first:
+      213: -8208925140632863476
+    second: Every_Single_Tile_GG_222
+  - first:
+      213: 4839760254414253350
+    second: Every_Single_Tile_GG_223
+  - first:
+      213: 5559027236284073568
+    second: Every_Single_Tile_GG_224
+  - first:
+      213: -2307021297460986214
+    second: Every_Single_Tile_GG_225
+  - first:
+      213: 7257375944535179784
+    second: Every_Single_Tile_GG_226
+  - first:
+      213: -4056024652717003379
+    second: Every_Single_Tile_GG_227
+  - first:
+      213: -609230297698747883
+    second: Every_Single_Tile_GG_228
+  - first:
+      213: 7854176747448562699
+    second: Every_Single_Tile_GG_229
+  - first:
+      213: 8127228834352259864
+    second: Every_Single_Tile_GG_230
+  - first:
+      213: 660915160076959400
+    second: Every_Single_Tile_GG_231
+  - first:
+      213: -8784042690555072321
+    second: Every_Single_Tile_GG_232
+  - first:
+      213: 4541411436079518949
+    second: Every_Single_Tile_GG_233
+  - first:
+      213: -1518805488367528088
+    second: Every_Single_Tile_GG_234
+  - first:
+      213: 5192220261224240010
+    second: Every_Single_Tile_GG_235
+  - first:
+      213: -8393317969018491989
+    second: Every_Single_Tile_GG_236
+  - first:
+      213: -5988418281705176687
+    second: Every_Single_Tile_GG_237
+  - first:
+      213: 4941024918364214864
+    second: Every_Single_Tile_GG_238
+  - first:
+      213: 5870068127790575654
+    second: Every_Single_Tile_GG_239
+  - first:
+      213: -6208195586133373813
+    second: Every_Single_Tile_GG_240
+  - first:
+      213: -2019792323760578600
+    second: Every_Single_Tile_GG_241
+  - first:
+      213: 3426229824205411682
+    second: Every_Single_Tile_GG_242
+  - first:
+      213: 7785942024490882809
+    second: Every_Single_Tile_GG_243
+  - first:
+      213: -912152294567335516
+    second: Every_Single_Tile_GG_244
+  - first:
+      213: 564120642991793353
+    second: Every_Single_Tile_GG_245
+  - first:
+      213: -2647906672924206752
+    second: Every_Single_Tile_GG_246
+  - first:
+      213: 4974744413207016330
+    second: Every_Single_Tile_GG_247
+  - first:
+      213: -996577492153922051
+    second: Every_Single_Tile_GG_248
+  - first:
+      213: -4164364349941557087
+    second: Every_Single_Tile_GG_249
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 56
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a5a829d6b59e050800000000000000
+      internalID: 5830291718775921231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2364eb781d260dc0800000000000000
+      internalID: -3673198862893030609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb66b62353757a130800000000000000
+      internalID: 3577924314959931071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7b8739df3b25dd0800000000000000
+      internalID: -2498736941554944071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fc705753f1b2050800000000000000
+      internalID: 5776745261489966954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3edc0b2044dda890800000000000000
+      internalID: -7445061236908302790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f495bede291a0e630800000000000000
+      internalID: 3954338125260216655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896c823530d584690800000000000000
+      internalID: -7617736500835727720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0967a91bbf005c930800000000000000
+      internalID: 4162734511590373008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7943aa48c9fbd000800000000000000
+      internalID: 61917658540624255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947411cee0c03dec0800000000000000
+      internalID: -3543475223580817591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c8ef20789d3efd0800000000000000
+      internalID: -2313766609644254053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065195f471c083140800000000000000
+      internalID: 4699519505416131936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e3fd64fd245f5e0800000000000000
+      internalID: -1876520142995767673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_14
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf9e54f26dfc49d0800000000000000
+      internalID: -2788575467800715330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9340fe8735d5c220800000000000000
+      internalID: 2505643202299577242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b422df4e4ac4f80800000000000000
+      internalID: -8120934724649465021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_17
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11acd4c4604a712d0800000000000000
+      internalID: -3307995054323414511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_18
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91454791b12815d10800000000000000
+      internalID: 2112612753116255257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_19
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acb54e289cece030800000000000000
+      internalID: 3525452746679762086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_20
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833f772d1027e12a0800000000000000
+      internalID: -6764844238112296136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_21
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e572dfa3f418e90800000000000000
+      internalID: -7025246828947349873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_22
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e97d1f52034450800000000000000
+      internalID: 6071699330165236066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_23
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c60d4e8754686540800000000000000
+      internalID: 5001357713407280834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_24
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7abae639363da90800000000000000
+      internalID: -7290373886914615311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e7308c6a5a07560800000000000000
+      internalID: 7309524330961141302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a4273ad715c6ca0800000000000000
+      internalID: -6022349001646257567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e1bb405f9c89850800000000000000
+      internalID: 6384074525981220507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0ea37f873ed33b0800000000000000
+      internalID: -5531014658657689377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8dd1398f9be25d0800000000000000
+      internalID: -3085324217430976319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d635dbc64db76f900800000000000000
+      internalID: 717897342899802989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a6e6672940b3320800000000000000
+      internalID: 2538627842052090454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_32
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83842f6f3448226a0800000000000000
+      internalID: -6475467886764603336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d67a6843193b380800000000000000
+      internalID: -8956655579126338296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59585662379fd7910800000000000000
+      internalID: 1836898495997773205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1451aa9f0c877f20800000000000000
+      internalID: 3420356440657843228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_36
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a81c3536d13a9f0800000000000000
+      internalID: -458490424617498063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7337bc0099aa76410800000000000000
+      internalID: 1470331377479807799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_38
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34d20c1870cbb510800000000000000
+      internalID: 1566056917539935293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_39
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd2060fd24498610800000000000000
+      internalID: 1623904104740826615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_40
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c7578a733005a60800000000000000
+      internalID: 7660626503741570094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_41
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bd74f059fa57080800000000000000
+      internalID: -9190246409838273708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_42
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6aa9a8d793e88c0800000000000000
+      internalID: -3995192608071964978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_43
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0718f587da3963a0800000000000000
+      internalID: -6671736675632670964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_44
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c2d370684eb7580800000000000000
+      internalID: -8828211380231525237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_45
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d148172bce7feeca0800000000000000
+      internalID: -5985574258750684131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_46
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302428f30d9422b10800000000000000
+      internalID: 1955206346999742979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_47
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316a52f1334874ef0800000000000000
+      internalID: -123985109628639725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_48
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece14284c26f226e0800000000000000
+      internalID: -1863656625728643378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_49
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789d1133ccdb68950800000000000000
+      internalID: 6451052200982600071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c973291890f80a950800000000000000
+      internalID: 6458319136640612252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b06c5b247d99c9a0800000000000000
+      internalID: -6212261088711647048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcc0f659ef4ac630800000000000000
+      internalID: 3948055886948256946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca559d942f1e1f40800000000000000
+      internalID: 5701028420420721355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e81980b3fee46ff0800000000000000
+      internalID: -43647365960623903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_55
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d1d4f4ee6629eb0800000000000000
+      internalID: -4714592686184784496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d854f9ef219b8b0800000000000000
+      internalID: -5136053015236211311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_57
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6953cdc02edc3430800000000000000
+      internalID: 3764127621047343466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b551693af62ae8d40800000000000000
+      internalID: 5588582787982955867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_59
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68947af22fd9cc10800000000000000
+      internalID: 2074434444704651375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_60
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a220f07f5a7d6b0800000000000000
+      internalID: -5271562358286570953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_61
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400afc00e94d16630800000000000000
+      internalID: 3918646925872570372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e535b2a91564c460800000000000000
+      internalID: 7261039660006454761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_63
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f5bfac49f2c5f80800000000000000
+      internalID: -8116560112321339532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_64
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92969c417531a910800000000000000
+      internalID: 1846816082931126939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_65
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4dbc93c65611210800000000000000
+      internalID: 1301933282787316932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_66
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18bc398e0449d160800000000000000
+      internalID: 7050741520847910941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_67
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d3eee75c25a6f10800000000000000
+      internalID: 2263712770898673019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_68
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9071a838186cd5740800000000000000
+      internalID: 5142484609086920457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_69
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4502f03ca57cbdf0800000000000000
+      internalID: -163126104076188339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_70
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7d8c020f5b47490800000000000000
+      internalID: -7749369015850969109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_71
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaafa0a038adc4d0800000000000000
+      internalID: -3112646840635381026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_72
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4846ca11bf3b31250800000000000000
+      internalID: 5914268626582267012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_73
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaec40c4b3096e90800000000000000
+      internalID: -7032085268307055956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_74
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298621a8f4c74f280800000000000000
+      internalID: -9010440273400797038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659c26062032df6a0800000000000000
+      internalID: -6413931801191724714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_76
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e299c03284c069c0800000000000000
+      internalID: -3935930010878504223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48cb61be5cd38680800000000000000
+      internalID: -8753910951416444850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc7488706f9f7320800000000000000
+      internalID: 2557938350057356467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9425a8958b2c50b0800000000000000
+      internalID: -5738663972385250149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_80
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe6351cac3bd28f0800000000000000
+      internalID: -563596694943207692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_81
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dabe333b873eb520800000000000000
+      internalID: 2719672295978089170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_82
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0075642bef7210800000000000000
+      internalID: 1333042556278149075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_83
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070cb1d1e15560b60800000000000000
+      internalID: 7711944999744290928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_84
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd19cecddfb03aa0800000000000000
+      internalID: -6183231329001726530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_85
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e8db84d05d4ed0800000000000000
+      internalID: -2428195750273293982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_86
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7144c98c5fd440800000000000000
+      internalID: 4962787061158476459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_87
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bfbe4f05809a6e0800000000000000
+      internalID: -1825919030122513631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_88
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39a4ec6db2fe1680800000000000000
+      internalID: -8782315327936222915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_89
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed650b24cb205a40800000000000000
+      internalID: 5354828078478880230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_90
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b47ac9cc1178e9e0800000000000000
+      internalID: -1591898099816958794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_91
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c3093b4caae30d0800000000000000
+      internalID: -3441125303461594012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_92
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fee1ea49e4e3530800000000000000
+      internalID: 3836590333049630467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_93
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e201e11a89310b00800000000000000
+      internalID: 792978274562147042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_94
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6700ce4f57a601360800000000000000
+      internalID: 7138322464235061366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_95
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f56879b725ce83b0800000000000000
+      internalID: -5508248519821466127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_96
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091c67fa0d2936b30800000000000000
+      internalID: 4279425495926751632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_97
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b9a8671b8e12160800000000000000
+      internalID: 6999131144806112004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_98
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f91fcf18f8fa14c0800000000000000
+      internalID: -4315863548311954952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_99
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b068566c6c421150800000000000000
+      internalID: 5841815695110201521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32654ff0d8624af0800000000000000
+      internalID: -413652968919440838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_101
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4da33ae27d10920800000000000000
+      internalID: 2954879425838765244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f12d0395cc6830800000000000000
+      internalID: 4065841798979909691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e924791cd6a403cb0800000000000000
+      internalID: -4886323760437181794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7835a79bde48410800000000000000
+      internalID: 1478567958561392548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_105
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acf58466153ace20800000000000000
+      internalID: 3371565641332292774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_106
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aedb3f1f8b48600800000000000000
+      internalID: 469703610469313117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_107
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e7e4c53b12a6df0800000000000000
+      internalID: -186299380350943721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_108
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60a00e9104e9cd0800000000000000
+      internalID: -2549529859168008496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_109
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91fccf35043e9300800000000000000
+      internalID: 260703025583944093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_110
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8066d2c4bfe207f70800000000000000
+      internalID: 9182891297058153992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_111
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a9715d3466740e0800000000000000
+      internalID: -2285745844343301560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_112
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2452c8b5b4f940120800000000000000
+      internalID: 2379201649165739330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_113
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492851e9105aa6900800000000000000
+      internalID: 678536120238441108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_114
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1639f2d755a435640800000000000000
+      internalID: 5067475736754885473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_115
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0472da825adbaea60800000000000000
+      internalID: 7704178629620344640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_116
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3ade3052a701670800000000000000
+      internalID: 8507433995501151145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_117
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8d3624516976d40800000000000000
+      internalID: 5577591681573968113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_118
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31f02e89c38ee0f0800000000000000
+      internalID: -1085785558453522116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_119
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6ce4f9c932bd5a0800000000000000
+      internalID: -6495558881957198145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_120
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5450f1889d62bb850800000000000000
+      internalID: 6393746811716044101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_121
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f20bc35925d5000800000000000000
+      internalID: 26267973755875113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_122
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5b165a619c98f10800000000000000
+      internalID: 2272568586086233547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_123
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b12cd7c8bf6c4e20800000000000000
+      internalID: 3336164263392453048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_124
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b4ca57692a7c9d0800000000000000
+      internalID: -2754053880010749180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f3300061ac1f410800000000000000
+      internalID: 1509209545984130885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_126
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba2bed0af9031750800000000000000
+      internalID: 6274369675437222578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9694e86862dda4390800000000000000
+      internalID: -7833205444321588887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_128
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf6fbf8beee46bf0800000000000000
+      internalID: -331877777022160930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb2b4edaa6710b0800000000000000
+      internalID: -5758016303471084408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_130
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef72e7790955b6c00800000000000000
+      internalID: 894903030468454398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_131
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856f0d4503b14b9b0800000000000000
+      internalID: -5065393786489604520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_132
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4689a224e7e1fd20800000000000000
+      internalID: 3310682168114120271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_133
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41205dc004a95aee0800000000000000
+      internalID: -1250423721641573868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_134
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74cf4a1ee7a1fa20800000000000000
+      internalID: 3094439060065731711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_135
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430dc28f0b93fb440800000000000000
+      internalID: 4953741547371548724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_136
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf581c5152486c400800000000000000
+      internalID: 344107716354082300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_137
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b793be302ac7920800000000000000
+      internalID: 2989442390382181234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_138
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093b05726b3b726f0800000000000000
+      internalID: -709400821362543728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_139
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c2bc370c0aaffc0800000000000000
+      internalID: -3460276615243944947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_140
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9da2eae191d8c10800000000000000
+      internalID: 2057328224339941852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_141
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3936ed8376b607590800000000000000
+      internalID: -7678519273586793581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_142
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ea0133075852d50800000000000000
+      internalID: 6711917536605154921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_143
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743d02aeefbc55f40800000000000000
+      internalID: 5716699597726864199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_144
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf7de094fe7131a0800000000000000
+      internalID: -6831539570875727907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_145
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44790da0b4d11770800000000000000
+      internalID: 8579872620399916108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_146
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aec70e283e2a95d0800000000000000
+      internalID: -3055078578392150367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_147
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519fa064257d63640800000000000000
+      internalID: 5059467979759745301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_148
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595fa1dc49c4c0440800000000000000
+      internalID: 4903378296279594389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_149
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cc57a55576f54f0800000000000000
+      internalID: -837837389380072360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25653cf657b16aac0800000000000000
+      internalID: -3844355040713943470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_151
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd236a9358de25560800000000000000
+      internalID: 7301159102374621917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_152
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0befd3744ae15fd0800000000000000
+      internalID: -2354843550415328498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_153
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e24a3c804d457d0800000000000000
+      internalID: -2930484323404206518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cc34626e8947170800000000000000
+      internalID: 8175327337836170348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_155
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a27893c0729a50800000000000000
+      internalID: 6526402795391853541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_156
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895b6ec14f7e1bca0800000000000000
+      internalID: -6002761792665242216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_157
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca893b34b1a6ea30800000000000000
+      internalID: 4244257494303083211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e3e1b3770c7cab0800000000000000
+      internalID: -4987806443964056026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_159
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7a88ad36c09e6c0800000000000000
+      internalID: -4113743161618552910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_160
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7a0d625a63b8b20800000000000000
+      internalID: 3137661648342394786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_161
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657d2c62baea0d180800000000000000
+      internalID: -9092575597548087466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_162
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981026ce48721df40800000000000000
+      internalID: 5751421650983846281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_163
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d884f13d9762c00800000000000000
+      internalID: 875521125240048922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_164
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a05e5368a017660800000000000000
+      internalID: 7381692835783051860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_165
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b278d448f587ddef0800000000000000
+      internalID: -81776866585901269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_166
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b2406eff0a2e5d0800000000000000
+      internalID: -3034686177958155459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_167
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdf3be09eaf16100800000000000000
+      internalID: 99636545659862520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_168
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff13ce623e314dd30800000000000000
+      internalID: 4455207797707780607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_169
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeca6852502ab660800000000000000
+      internalID: 7402264475579633342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_170
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bf7f04a197d51f0800000000000000
+      internalID: -1054553584068723853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_171
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f644f211c3511c0800000000000000
+      internalID: -4533651405373411433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_172
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2561922d0213e6c10800000000000000
+      internalID: 2048628897534776914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_173
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674733fc7b1f05390800000000000000
+      internalID: -7831493980239727498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_174
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835ea8bbf60d1e2e0800000000000000
+      internalID: -2098166773071551176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624f33aefb468cba0800000000000000
+      internalID: -6068489722450938842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_176
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566187b40b4504bd0800000000000000
+      internalID: -2648023464736713115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_177
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e47e329b12e88340800000000000000
+      internalID: 4866388005419381989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_178
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c52e0722182a10e0800000000000000
+      internalID: -2298480601389455936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_179
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b670d8babc559ca0800000000000000
+      internalID: -6010796170621716810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_180
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c2a9e7045e85c90800000000000000
+      internalID: -7180737540677555185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_181
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057084541468dfe00800000000000000
+      internalID: 1080167100532131664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_182
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb735d938c18dd080800000000000000
+      internalID: -9161023370038003778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3a80904590218c0800000000000000
+      internalID: -4030148460009708545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_184
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ccac098674bb0b0800000000000000
+      internalID: -5711893187957961662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_185
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4670fc31695ce2ba0800000000000000
+      internalID: -6111730395927083164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_186
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670f594a884448130800000000000000
+      internalID: 3568052158451806326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_187
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4ee77495dc14e90800000000000000
+      internalID: -7043122558895463259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_188
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fec1eea7d9cc6a0800000000000000
+      internalID: -6427589416858095836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_189
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9906166211005dd00800000000000000
+      internalID: 996702966190792857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_190
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51120270ebfb9c030800000000000000
+      internalID: 3515551807023620373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_191
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c826578e6ac59d90800000000000000
+      internalID: -7091539462159193911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_192
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af132daf138f8050800000000000000
+      internalID: 5805002616775843751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_193
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4568c1061d69e670800000000000000
+      internalID: 8568499707335697741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_194
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb6e3d7d1b786d0800000000000000
+      internalID: -2988224287205835660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_195
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b642d3e94ecf010800000000000000
+      internalID: 1224104567019694994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_196
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ce9abea95daa140800000000000000
+      internalID: 4731829219861589076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_197
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45d0f0dc211787a0800000000000000
+      internalID: -6375107863337970353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_198
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3b8555cb81cc250800000000000000
+      internalID: 5966170803523859363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_199
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670f46b0696501090800000000000000
+      internalID: -8065851730184310666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c524ed9fb7649a0800000000000000
+      internalID: -6249171119824020336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_201
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70905a510659e8c0800000000000000
+      internalID: -3969547032740196227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_202
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27082649e3de04fc0800000000000000
+      internalID: -3512546856315748238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_203
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc73ee0f9f734910800000000000000
+      internalID: 1820438995514129599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_204
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecea101c318b402b0800000000000000
+      internalID: -5619164040069534002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_205
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee9573f1ef8fee0800000000000000
+      internalID: -1226951488432378206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_206
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be834716c242b2f0800000000000000
+      internalID: -958630352115233100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_207
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4094b09b349b9d190800000000000000
+      internalID: -7937109167745316604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_208
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da2e9757eb48c3c0800000000000000
+      internalID: -4339134783991960871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_209
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba109efcb47db220800000000000000
+      internalID: 2503285322961394360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_210
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acda740f026d36860800000000000000
+      internalID: 7522091239597387210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_211
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c0888b078743b90800000000000000
+      internalID: -7263047873514173353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_212
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330911f6f5c7d6e50800000000000000
+      internalID: 6804231361353846835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_213
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0594ea6aa7aca80800000000000000
+      internalID: -8445803294872743681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_214
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90992c12cc1050490800000000000000
+      internalID: -7780810804961306359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_215
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5537b20f4f963540800000000000000
+      internalID: 4987348799056196955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_216
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3c042d184cb3100800000000000000
+      internalID: 88880679521141746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_217
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1f999d4fd6f09b0800000000000000
+      internalID: -5111746153652031070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_218
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae162f3c9ae195f0800000000000000
+      internalID: -751561705998901585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_219
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808e184a6d82406b0800000000000000
+      internalID: -5331091156551735288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_220
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e5b28081a6ae090800000000000000
+      internalID: -8004468736248816077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_221
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0725ad9e065e7f9c0800000000000000
+      internalID: -3893391148435484048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_222
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dfdccc31a041e80800000000000000
+      internalID: -8208925140632863476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_223
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d6a6a2f484a2340800000000000000
+      internalID: 4839760254414253350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_224
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0660f6381d1a52d40800000000000000
+      internalID: 5559027236284073568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eb3936a50dbffd0800000000000000
+      internalID: -2307021297460986214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_226
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8020c7768f067b460800000000000000
+      internalID: 7257375944535179784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_227
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d639e611b16b7c0800000000000000
+      internalID: -4056024652717003379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_228
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ab247a5449b87f0800000000000000
+      internalID: -609230297698747883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_229
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04fdca7324affc60800000000000000
+      internalID: 7854176747448562699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_230
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813e0ef9097b9c070800000000000000
+      internalID: 8127228834352259864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_231
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aebe0f16da0c2900800000000000000
+      internalID: 660915160076959400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_232
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0399976bfc81680800000000000000
+      internalID: -8784042690555072321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_233
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e49a62c3a5560f30800000000000000
+      internalID: 4541411436079518949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_234
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86790fe847e1ceae0800000000000000
+      internalID: -1518805488367528088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_235
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a835bd961d87e0840800000000000000
+      internalID: 5192220261224240010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_236
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babefb1e6c1f48b80800000000000000
+      internalID: -8393317969018491989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_237
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19102800d4dd4eca0800000000000000
+      internalID: -5988418281705176687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_238
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056d37d0cfb029440800000000000000
+      internalID: 4941024918364214864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_239
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620bc4c7cdba67150800000000000000
+      internalID: 5870068127790575654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_240
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c4f50c10f08d9a0800000000000000
+      internalID: -6208195586133373813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_241
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df9036359148f3e0800000000000000
+      internalID: -2019792323760578600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_242
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265dc964fd96c8f20800000000000000
+      internalID: 3426229824205411682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_243
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6909305093d0c60800000000000000
+      internalID: 7785942024490882809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_244
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9a14522526753f0800000000000000
+      internalID: -912152294567335516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_245
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4adf76cb824d700800000000000000
+      internalID: 564120642991793353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_246
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06957f109eeb04bd0800000000000000
+      internalID: -2647906672924206752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_247
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83309dbfa7d90540800000000000000
+      internalID: 4974744413207016330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_248
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd040d0d027b22f0800000000000000
+      internalID: -996577492153922051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Every_Single_Tile_GG_249
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8de6effa43536c0800000000000000
+      internalID: -4164364349941557087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
