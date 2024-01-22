@@ -27,11 +27,11 @@ public class PlayerMovemnt : MonoBehaviour
         //move left and right.
         if (Input.GetKey(left))
         {
-            rb2D.AddForce(Vector2.left * buildUp);
+            rb2D.AddForce(Vector2.left * buildUp * Time.deltaTime);
         }
         if (Input.GetKey(right))
         {
-            rb2D.AddForce(Vector2.right * buildUp);
+            rb2D.AddForce(Vector2.right * buildUp * Time.deltaTime);
         }
 
         if (Input.GetKeyDown(jump) && jumps >0)
@@ -50,7 +50,7 @@ public class PlayerMovemnt : MonoBehaviour
     }
     bool Grounded()
     {
-       return Physics2D.BoxCast(Vector2.down / 2, Vector2.one/0, 0, Vector2.zero);
+       return Physics2D.BoxCast(Vector2.down / .7f, Vector2.one / 2, 0, Vector2.zero);
     }
 }
   
