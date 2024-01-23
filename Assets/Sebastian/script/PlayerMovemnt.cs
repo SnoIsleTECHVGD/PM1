@@ -50,7 +50,7 @@ public class PlayerMovemnt : MonoBehaviour
     }
     bool Grounded()
     {
-       return Physics2D.BoxCast(Vector2.down / .7f, Vector2.one / 2, 0, Vector2.zero);
+       return Physics2D.BoxCast(transform.position + Vector3.down / .7f, Vector2.one / 2, 0, Vector2.zero);
     }
 }
   
