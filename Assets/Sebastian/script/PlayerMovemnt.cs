@@ -14,20 +14,24 @@ public class PlayerMovemnt : MonoBehaviour
     public float jumpForce;
 
     private Rigidbody2D rb2D;
+    private Animator anim;
 
     // Start is called before the first frame update
     void Start()
     {
         rb2D = GetComponent<Rigidbody2D>();
+        
     }
 
     // Update is called once per frame
     void Update()
     {
+        
         //move left and right.
         if (Input.GetKey(left))
         {
             rb2D.AddForce(Vector2.left * buildUp * Time.deltaTime);
+            anim.Play("Player_WalkingLeft");
         }
         if (Input.GetKey(right))
         {
