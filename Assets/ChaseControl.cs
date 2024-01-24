@@ -5,13 +5,15 @@ using UnityEngine;
 public class ChaseControl : MonoBehaviour
 {
     public FlyingEnemy[] enemyarray;
-   private void OnTriggerEnter2(Collider2D collision)
+    public bool inrange;
+   private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
             foreach (FlyingEnemy enemy in enemyarray)
             {
                 enemy.chase = true;
+                inrange = true;
             }
 
 
@@ -22,15 +24,26 @@ public class ChaseControl : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.CompareTag("player"))
+        if (collision.CompareTag("Player"))
         {
 
             foreach (FlyingEnemy enemy in enemyarray)
             {
                 enemy.chase = false;
+                inrange = false;
             }
         }
 
 
     }
+
+//    private void Update()
+//    {
+//        if(inrange == false)
+//        {
+//            foreach (FlyingEnemy enemy in enemyarray)
+//            {
+//                enemy.chase = false;            }
+//        }
+//    }
 }

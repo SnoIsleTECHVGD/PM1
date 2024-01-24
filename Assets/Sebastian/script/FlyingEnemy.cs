@@ -7,18 +7,19 @@ public class FlyingEnemy : MonoBehaviour
     public float speed;
     public bool chase = false;
     public Transform startingPoint;
-    private GameObject player;
+    public GameObject player;
 
     private void Start()
     {
-        player = GameObject.FindGameObjectWithTag("Player");
+       // player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
     void Update()
     {
         if (player == null)
-            return;
+            Debug.Log("Null");
+           // return;
         if (chase == true)
             Chase();
         else
