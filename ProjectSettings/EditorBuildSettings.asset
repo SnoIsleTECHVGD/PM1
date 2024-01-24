@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Main/level.unity
     guid: b2d5462c940f5ed43bd92ad493d60b2d
+  - enabled: 1
+    path: Assets/Main/MainDeathScreen.unity
+    guid: 4482bd6693fca244e9b815a70e2d0e17
   m_configObjects: {}
