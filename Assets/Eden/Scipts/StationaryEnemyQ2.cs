@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class ShootingScript : MonoBehaviour
+public class StationaryEnemyQ2 : MonoBehaviour
 {
     public Rigidbody bulletPrefab;
     public float bulletSpeed = 10;
