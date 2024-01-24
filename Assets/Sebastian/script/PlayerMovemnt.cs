@@ -14,7 +14,7 @@ public class PlayerMovemnt : MonoBehaviour
     public float jumpForce;
 
     private Rigidbody2D rb2D;
-    private Animator anim;
+    
 
     // Start is called before the first frame update
     void Start()
@@ -31,7 +31,6 @@ public class PlayerMovemnt : MonoBehaviour
         if (Input.GetKey(left))
         {
             rb2D.AddForce(Vector2.left * buildUp * Time.deltaTime);
-            anim.Play("Player_WalkingLeft");
         }
         if (Input.GetKey(right))
         {

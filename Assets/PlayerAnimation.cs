@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Animator : MonoBehaviour
+public class PlayerAnimation : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -16,9 +16,3 @@ public class Animator : MonoBehaviour
     {
         
     }
-
-    internal void SetBool(string v1, bool v2)
-    {
-        throw new NotImplementedException();
-    }
-}
